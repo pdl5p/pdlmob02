@@ -1,0 +1,27 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "pdlmob02"
+        },
+        "cordova-plugin-ms-azure-mobile-apps": {
+            "PACKAGE_NAME": "pdlmob02"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "pdlmob02"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "pdlmob02"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "pdlmob02"
+        }
+    },
+    "dependent_plugins": {}
+}
